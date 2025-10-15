@@ -1,3 +1,4 @@
+// Contributor: Yiming Gu – ECE1895 A15
 /* Contributor: Hanchen Zhu
  * Hello World – 1_led
  */
