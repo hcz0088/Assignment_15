@@ -1,5 +1,5 @@
-// Contributor: Yiming Gu – ECE1895 A15
 /* Contributor: Hanchen Zhu
+  Contributor: Gongduo Huang 
  * Hello World – 1_led
  */
 const uint8_t LED_PIN = 26;
