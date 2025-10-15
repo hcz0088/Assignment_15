@@ -1,4 +1,4 @@
-# MCU Hello World – Group Gamma
+# Hello World – Group Gamma
 
 This repo hosts our microcontroller "Hello World" submission and the GitHub collaboration workflow for ECE 1895.
 
