@@ -9,7 +9,7 @@ This repo hosts our microcontroller "Hello World" submission and the GitHub coll
 ## How to Contribute
 1. Fork this repo.
 2. Create a branch `feat/name-comment-<yourname>`.
-3. Edit `src/main.*` and add your name comment at the top.
+3. Edit `/src_hello_world.ino` and add your name comment at the top.
 4. Commit & push; open a Pull Request to `<owner>/mcu-hello-world-teamX:main`.
 
 ## Sync Your Fork
